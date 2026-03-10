@@ -1,0 +1,16 @@
+image_name;manual_count;script_own;script_simple;script_watershed;script_own_sparse;script_SarDist;YOLO_count
+img_01;80;44;48;;;;
+img_02;79;41;42;;;;
+img_03;84;34;38;;;;
+img_04;79;41;42;;;;
+img_05;66;45;47;;;;
+img_06;62;29;33;;;;
+img_07;93;63;70;;;;
+img_08;89;51;55;;;;
+img_09;57;36;37;;;;
+img_10;76;57;60;;;;
+img_11;55;34;36;;;;
+img_12;81;59;65;;;;
+img_13;40;34;35;;;;
+img_14;80;43;48;;;;
+img_15;68;35;39;;;;

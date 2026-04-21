@@ -23,9 +23,10 @@ Update your `.csv` file incrementally. **Do not change column names or the file 
 | **image_id** | Filename of the image (e.g., `img_01.tif`). |
 | **manual_count** | Points clicked manually in ImageJ/Fiji. |
 | **script_own** | Results from your custom-tuned Fiji macro. |
-| **script_simple** | Results from basic global thresholding (Class Workshop). |
+| **[script_simple](https://raw.githubusercontent.com/UCT-Advanced-Image-Analysis/semester-project-2026/refs/heads/main/scripts/ms_simple_macro.ijm)** | Results from basic global thresholding (Class Workshop). |
 | **script_watershed** | Results from classic Watershed segmentation (Class Workshop). |
-| **script_StarDist** | Results using the **Pre-trained StarDist model**. |
+| **[script_own_sparse](https://raw.githubusercontent.com/UCT-Advanced-Image-Analysis/semester-project-2026/refs/heads/main/scripts/weka-Macro.ijm)** | WEKA egmantation based - with own sparse training |
+| **script_StarDist** | Results using the **Pre-trained StarDist model**, available in plugin. |
 | **YOLO_count** | Number of bounding boxes detected (Phase 5 - Optional). |
 
 ---
